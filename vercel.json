@@ -1,0 +1,5 @@
+{
+  "buildCommand": "cd \"AI Capability Building\" && npm install && npm run build",
+  "outputDirectory": "AI Capability Building/dist",
+  "rewrites": [{ "source": "/(.*)", "destination": "/index.html" }]
+}
