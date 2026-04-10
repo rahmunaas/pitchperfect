@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python3 -c ':*)",
+      "Bash(pip3 install:*)",
+      "Bash(python3)",
+      "Bash(npm install:*)",
+      "Bash(npm run:*)",
+      "Bash(git -C \"/Users/rahmuna/Desktop/AI-Enablement Hackathon\" add .)",
+      "Bash(git -C \"/Users/rahmuna/Desktop/AI-Enablement Hackathon\" commit -m \"Initial commit: PitchPerfect app\")"
+    ]
+  }
+}
